@@ -4,7 +4,6 @@ This repository contains the tutorial files for the **Grid Formation** behaviour
 * Grid_Formation_MnA - Mathematics & Algorithms behind the Grid Formation.
 * Grid_Formation_Unity - Implementation of Grid Formation in Unity3D Engine.
 
-Specifically to make changes or clarifications submitted by users.
 
 <a href="https://github.com/JonasMun/Grid_Formation/issues">Submit an issue</a>
 ## Submitting an Issue:
