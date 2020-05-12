@@ -2,9 +2,10 @@
 This repository contains the tutorial files for the **Grid Formation** behaviour.
 Specifically to make changes or clarifications submitted by users.
 
+<a href="https://github.com/JonasMun/Grid_Formation/issues">Submit an issue</a>
 ## Submitting an Issue:
 
-WHen submitting an issue please include the:
+When submitting an issue please include the:
 
 * Chapter
 * Type of Issue (Clarification, typo...)
